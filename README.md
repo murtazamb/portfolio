@@ -15,12 +15,13 @@ A driven and detail-oriented mechanical engineering student at UMass Amherst, ac
 
 ## 🎓 Education
 
-**University of Massachusetts Amherst** — *BS in Mechanical Engineering, Business Minor*  
+**University of Massachusetts Amherst** — *BS in Mechanical Engineering, Minor in Business*  
 📍 Amherst, MA  
 📅 Sept 2023 – May 2027  
 - **GPA:** 3.3/4.0  
 - **Dean’s List:** Spring 2024 and Spring 2025  
-- **Coursework:** Statics, Strength of Materials, Thermodynamics, Material Sciences, Probability & Statistics, MATLAB, Fluid Mechanics, Calculus I–IV, General Physics I–II, Introduction to Accounting, Introduction to Marketing
+- **Coursework:** Statics, Strength of Materials, Thermodynamics, Material Sciences, Probability and Statistics,  
+MatLab, Fluid Mechanics
 
 ---
 
@@ -29,71 +30,80 @@ A driven and detail-oriented mechanical engineering student at UMass Amherst, ac
 **Senior Intern, OFFICEBASE.AE**  
 📍 Dubai, UAE  
 📅 June 2025 – Aug 2025  
-- Returned for a second term based on strong performance in design and production roles.  
-- Supported manufacturing using CNC machines, laser cutters, and edge banders.  
-- Participated in site visits, took measurements, and updated CAD drawings per client requirements.
+- Invited to return for a second term based on strong performance and contribution to marketing and product operations.  
+- Assisted in metalworking and carpentry operations, gaining hands-on experience with CNC machines, lazer  
+Metal Cutting machines, and edge banders.  
+- Participated in on-site client visits to take accurate measurements and aided in adjusted existing drawings to  
+meet custom layout and design requirements.
 
 **Intern, OFFICEBASE.AE**  
 📍 Dubai, UAE  
 📅 June 2024 – Aug 2024  
-- Developed expertise in office furniture design and ergonomic principles.  
-- Learned production processes and quality checks in a factory environment.  
-- Assisted website product entry and troubleshooting.
+- Developed knowledge of furniture design standards and ergonomics applied in commercial office setups.  
+- Learned key manufacturing processes by shadowing factory operations and gaining exposure to CNC  
+machining, material selection, and assembly workflows.  
+- Collaborated with the production team to understand end-to-end manufacturing processes and quality control  
+checks.
 
 **Intern, ALMA Observatory**  
 📍 Dubai, UAE  
 📅 Feb 2022 – Mar 2022  
-- Led a team of four in creating engaging educational material about space for children.  
-- Designed a 2D interactive website layout and developed games to promote STEM interest.  
-- Presented concepts to the development team, refining communication and teamwork skills.
+- Researched and developed engaging methods to spark children’s interest in space, working in a team of four.  
+- Created interactive games and a 2-dimensional concept layout for a website.  
+- Presented design concepts to the website team, demonstrating effective communication and presentation skills.
 
 **Intern, Al Futtaim Motors – Toyota & Lexus**  
 📍 Dubai, UAE  
 📅 July 2021  
-- Analyzed consumer data to support market segmentation using Excel.  
-- Presented key insights to senior management to inform branding strategy.
+- Collected and analyzed customer demographic data, buying behaviors, and preference trends using Excel to  
+support strategic market segmentation.  
+- Delivered a data-driven presentation to senior staff, aiding in the assessment of Toyota and Lexus’s competitive  
+positioning in the UAE automotive market.
 
 ---
 
 ## 🛠 Projects
 
-**Research & Design, UMASS ASME – IAM3D Design Team**  
+**Research and Design, UMASS ASME - IAM3D Design Team**  
 📍 Amherst, MA  
-📅 Oct 2023 – Mar 2024  
-- Designed modular drone arms based on competition requirements.  
-- Created 3D CAD models and technical drawings using SolidWorks.  
-- Helped identify over 20 suitable components with a focus on performance and cost.
+📅 October 2023 – March 2024  
+- Researched and designed modular drone arms tailored to competition-specific technical requirements.  
+- Assisted in creating detailed 3D CAD models and technical sketches using SolidWorks to support prototyping.  
+- Collaborated in a cross-functional team of 3 to 5 members to identify and source over 20 mechanical  
+components, optimizing for weight, durability, and cost.
 
-**Design Lead, School of Humanity – Future of Space Program**  
+**Design Lead, School Of Humanity – Future of Space Program**  
 📍 Dubai, UAE  
-📅 Sept 2021 – Mar 2022  
-- Selected for a $2,000 scholarship to research astronaut safety.  
-- Designed a helmet in Fusion 360, improving safety metrics by 30%.  
-- Conducted risk analysis and integrated modern tech in design.
+📅 Sept 2021 – March 2022  
+- Awarded a $2,000 scholarship to participate in the Future of Space program.  
+- Researched life-threatening aspects of space and collaborated with a team to design a helmet aimed at  
+increasing astronaut safety.  
+- Developed a CAD model on Fusion 360, integrating the latest technology, Improving saftey by 30%.
 
 **Extended Essay – Virgin Hyperloop Research Paper**  
 📍 Deira International School  
 📅 Mar 2022 – Mar 2023  
-- Wrote a 4,000-word research paper combining Physics and Economics.  
-- One of 10 selected to complete an interdisciplinary essay on transportation innovation.
+- Conducted comprehensive research on the Virgin Hyperloop, employing a multidisciplinary approach combining  
+Physics and Economics.  
+- Authored a 4000-word essay, 1 of 10 students chosen for this approach.
 
 ---
 
 ## 🏅 Awards
 
-**Chancellor’s Award**  
-📅 Sept 2023 – May 2027  
-- $16,000 merit-based scholarship for academic excellence.
+**Chancellors Award**  
+📅 September 2023 – May 2027  
+- Awarded a $16,000 scholarship that is given to students with exceptional grades coming into the university.
 
-**Head Teacher’s Award**  
+**Head Teachers Award**  
 📅 May 2021 & May 2022  
-- Twice awarded for top academic performance and community involvement.
+- Awarded 2 times and it is given to students with exceptional grades and commitment to the school and its  
+community.
 
 ---
 
 ## 🧠 Skills
 
-- **Software:** Fusion 360, SolidWorks, MATLAB, Microsoft Office Suite  
+- **Software:** Fusion 360, SolidWorks, Matlab, Microsoft Office Suite  
 - **Technical:** CNC operation, metalworking, carpentry, 2D/3D CAD design  
 - **Soft Skills:** Collaboration, Public Speaking, Design Thinking
-
