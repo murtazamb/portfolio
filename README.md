@@ -1,84 +1,99 @@
-# 👋 Hi, I'm Murtaza Boriyawala
+# Murtaza Boriyawala
 
-I'm a Mechanical Engineering student at the University of Massachusetts Amherst, minoring in Business. I'm passionate about design, engineering innovation, and real-world problem solving. I'm actively seeking internship opportunities where I can apply my technical and collaborative skills to meaningful projects.
+📍 Amherst, MA  
+📧 murtazaboriyawala10@gmail.com  
+📞 +1 (413) 315 7784  
+🔗 [LinkedIn](https://linkedin.com/in/murtazaboriyawala)
+
+---
+
+## 👤 Bio
+
+A driven and detail-oriented mechanical engineering student at UMass Amherst, actively seeking an internship to apply academic knowledge and technical skills in real-world projects. Equipped with strong problem-solving abilities, proficiency in engineering software, and hands-on experience from design and research projects. Eager to contribute to innovative engineering teams while continuing to develop technical skills and industry knowledge.
+
+---
 
 ## 🎓 Education
 
-**University of Massachusetts Amherst**  
-*B.S. in Mechanical Engineering, Business Minor*  
-**GPA:** 3.188  
-*Sep 2023 – May 2027*
+**University of Massachusetts Amherst** — *BS in Mechanical Engineering, Business Minor*  
+📍 Amherst, MA  
+📅 Sept 2023 – May 2027  
+- **GPA:** 3.3/4.0  
+- **Dean’s List:** Spring 2024 and Spring 2025  
+- **Coursework:** Statics, Strength of Materials, Thermodynamics, Material Sciences, Probability & Statistics, MATLAB, Fluid Mechanics, Calculus I–IV, General Physics I–II, Introduction to Accounting, Introduction to Marketing
 
-**Deira International School, Dubai**  
-*International Baccalaureate (IB)*  
-*Sep 2021 – Jun 2023*
+---
 
 ## 💼 Experience
 
-### **OFFICEBASE.AE** – Intern  
-*Dubai, UAE | Jun 2024 – Aug 2024*  
-- Gained knowledge in furniture design, ergonomics, and manufacturing machinery.  
-- Contributed to metalwork, carpentry, and adjusted design drawings on-site.  
-- Took measurements and modified product drawings to meet customer needs.  
+**Senior Intern, OFFICEBASE.AE**  
+📍 Dubai, UAE  
+📅 June 2025 – Aug 2025  
+- Returned for a second term based on strong performance in design and production roles.  
+- Supported manufacturing using CNC machines, laser cutters, and edge banders.  
+- Participated in site visits, took measurements, and updated CAD drawings per client requirements.
 
-### **UMass ASME – IAM3D Design Team** – Research & Design  
-*Amherst, MA | Sep 2023 – Feb 2024*  
-- Designed modular drone arms and developed CAD models using SolidWorks.  
-- Collaborated with a small team to select and test components.  
+**Intern, OFFICEBASE.AE**  
+📍 Dubai, UAE  
+📅 June 2024 – Aug 2024  
+- Developed expertise in office furniture design and ergonomic principles.  
+- Learned production processes and quality checks in a factory environment.  
+- Assisted website product entry and troubleshooting.
 
-### **ALMA Observatory** – Group Captain Intern  
-*Dubai, UAE | Feb 2022 – Mar 2022*  
-- Created games and a 2D interactive website layout to engage kids in space science.  
-- Led a team of four in developing content and presenting it to stakeholders.
+**Intern, ALMA Observatory**  
+📍 Dubai, UAE  
+📅 Feb 2022 – Mar 2022  
+- Led a team of four in creating engaging educational material about space for children.  
+- Designed a 2D interactive website layout and developed games to promote STEM interest.  
+- Presented concepts to the development team, refining communication and teamwork skills.
 
-### **School of Humanity** – Design Lead  
-*Dubai, UAE | Oct 2021 – Apr 2022*  
-- Selected for a $2,000 scholarship in the Future of Space program.  
-- Researched astronaut safety and designed an advanced helmet using Fusion 360.  
+**Intern, Al Futtaim Motors – Toyota & Lexus**  
+📍 Dubai, UAE  
+📅 July 2021  
+- Analyzed consumer data to support market segmentation using Excel.  
+- Presented key insights to senior management to inform branding strategy.
 
-### **Extended Essay – Virgin Hyperloop**  
-*Deira International School | Mar 2022 – Mar 2023*  
-- Conducted a 4,000-word interdisciplinary research project combining Physics and Economics.  
-- Selected as one of 10 students for this approach.
+---
 
-### **Al Futtaim Motors (Toyota & Lexus)** – Intern  
-*Dubai, UAE | Jul 2021*  
-- Analyzed customer demographics and market data to support strategic positioning.  
-- Created reports to guide future marketing direction.
+## 🛠 Projects
 
-## 🤝 Volunteering
+**Research & Design, UMASS ASME – IAM3D Design Team**  
+📍 Amherst, MA  
+📅 Oct 2023 – Mar 2024  
+- Designed modular drone arms based on competition requirements.  
+- Created 3D CAD models and technical drawings using SolidWorks.  
+- Helped identify over 20 suitable components with a focus on performance and cost.
 
-### **Camps International** – Volunteer  
-*Mombasa, Kenya | Jun 2022*  
-- Donated supplies and supported local crafts to aid children in underprivileged communities.
+**Design Lead, School of Humanity – Future of Space Program**  
+📍 Dubai, UAE  
+📅 Sept 2021 – Mar 2022  
+- Selected for a $2,000 scholarship to research astronaut safety.  
+- Designed a helmet in Fusion 360, improving safety metrics by 30%.  
+- Conducted risk analysis and integrated modern tech in design.
 
-### **Psychology Mentoring Program (DIS)** – Co-Founder  
-*Dubai, UAE | Sep 2021 – Oct 2022*  
-- Tutored high school students in psychology, improving grades by up to 2 points.  
-- Developed lesson plans for varied learning needs.
+**Extended Essay – Virgin Hyperloop Research Paper**  
+📍 Deira International School  
+📅 Mar 2022 – Mar 2023  
+- Wrote a 4,000-word research paper combining Physics and Economics.  
+- One of 10 selected to complete an interdisciplinary essay on transportation innovation.
+
+---
 
 ## 🏅 Awards
 
-- **Chancellor’s Award** – $16,000 scholarship for academic excellence (2023–2027)  
-- **Head Teacher’s Award** – Twice awarded for academic and community excellence (2021 & 2022)
+**Chancellor’s Award**  
+📅 Sept 2023 – May 2027  
+- $16,000 merit-based scholarship for academic excellence.
 
-## 📚 Coursework
-
-- **Engineering**: Statics, Strength of Materials, Thermodynamics, Material Sciences  
-- **Math & Science**: Calculus I–IV, General Physics I & II, Probability & Statistics  
-- **Business**: Intro to Accounting, Intro to Marketing  
-- **Programming/Tools**: Introduction to MATLAB
-
-## 🛠 Skills
-
-- **Software**: Fusion 360, SolidWorks, MATLAB, Microsoft Office Suite  
-- **Strengths**: Design Thinking, Team Collaboration, Public Speaking
-
-## 📫 Contact
-
-- **Email:** mboriyawala@umass.edu / murtazaboriyawala10@gmail.com  
-- **Phone:** +1 (413) 315-7784  
-- **LinkedIn:** [linkedin.com/in/murtazaboriyawala](https://linkedin.com/in/murtazaboriyawala)
+**Head Teacher’s Award**  
+📅 May 2021 & May 2022  
+- Twice awarded for top academic performance and community involvement.
 
 ---
+
+## 🧠 Skills
+
+- **Software:** Fusion 360, SolidWorks, MATLAB, Microsoft Office Suite  
+- **Technical:** CNC operation, metalworking, carpentry, 2D/3D CAD design  
+- **Soft Skills:** Collaboration, Public Speaking, Design Thinking
 
