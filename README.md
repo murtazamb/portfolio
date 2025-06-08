@@ -15,13 +15,14 @@ A driven and detail-oriented mechanical engineering student at UMass Amherst, ac
 
 ## 🎓 Education
 
-**University of Massachusetts Amherst** — *BS in Mechanical Engineering, Minor in Business*  
+**University of Massachusetts Amherst, BS in Mechanical Engineering, Minor in Business**  
 📍 Amherst, MA  
 📅 Sept 2023 – May 2027  
 - **GPA:** 3.3/4.0  
-- **Dean’s List:** Spring 2024 and Spring 2025  
 - **Coursework:** Statics, Strength of Materials, Thermodynamics, Material Sciences, Probability and Statistics,  
-MatLab, Fluid Mechanics
+MatLab, Fluid Mechanics.  
+- **Deans List - Spring 2024 and Spring 2025:** Awarded for academic excellence, earned consecutive honors in  
+recognition of top GPA performance.
 
 ---
 
@@ -30,7 +31,8 @@ MatLab, Fluid Mechanics
 **Senior Intern, OFFICEBASE.AE**  
 📍 Dubai, UAE  
 📅 June 2025 – Aug 2025  
-- Invited to return for a second term based on strong performance and contribution to marketing and product operations.  
+- Invited to return for a second term based on strong performance and contribution to marketing and product  
+operations.  
 - Assisted in metalworking and carpentry operations, gaining hands-on experience with CNC machines, lazer  
 Metal Cutting machines, and edge banders.  
 - Participated in on-site client visits to take accurate measurements and aided in adjusted existing drawings to  
@@ -91,9 +93,9 @@ Physics and Economics.
 
 ## 🏅 Awards
 
-**Chancellors Award**  
+**Chancellors award**  
 📅 September 2023 – May 2027  
-- Awarded a $16,000 scholarship that is given to students with exceptional grades coming into the university.
+- Awarded A $16,000 scholarship that is given to students with exceptional grades coming into the university.
 
 **Head Teachers Award**  
 📅 May 2021 & May 2022  
@@ -107,3 +109,4 @@ community.
 - **Software:** Fusion 360, SolidWorks, Matlab, Microsoft Office Suite  
 - **Technical:** CNC operation, metalworking, carpentry, 2D/3D CAD design  
 - **Soft Skills:** Collaboration, Public Speaking, Design Thinking
+
